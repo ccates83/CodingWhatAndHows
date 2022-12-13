@@ -2,15 +2,16 @@
 
 The SOLID principles are a set of five design principles that are intended to make software more understandable, maintainable, and flexible. These principles are particularly relevant in iOS development, as they can help developers create more modular and reusable code that is easy to understand, maintain, and extend. The five principles of SOLID are as follows:
 
-> 1. The Single Responsibility Principle states that every module or class should have a single, well-defined responsibility, and should be isolated from other concerns. This can help to make code more modular and easier to understand.
->
-> 2. The Open/Closed Principle states that modules should be open for extension, but closed for modification. This means that code should be designed in a way that allows new functionality to be added without having to change existing code.
->
-> 3. The Liskov Substitution Principle states that objects in a program should be replaceable with instances of their subtypes without altering the correctness of the program. This can help to ensure that code is flexible and can be easily extended and modified.
->
-> 4. The Interface Segregation Principle states that clients should not be forced to depend on methods that they do not use. This means that code should be broken down into smaller, more specific interfaces, rather than defining large, monolithic interfaces.
->
-> 5. The Dependency Inversion Principle states that high-level modules should not depend on low-level modules, but rather should depend on abstractions. This can help to decouple different components of an application and make the code more flexible and maintainable.
+1. The Single Responsibility Principle states that every module or class should have a single, well-defined responsibility, and should be isolated from other concerns. This can help to make code more modular and easier to understand.
+
+2. The Open/Closed Principle states that modules should be open for extension, but closed for modification. This means that code should be designed in a way that allows new functionality to be added without having to change existing code.
+
+3. The Liskov Substitution Principle states that objects in a program should be replaceable with instances of their subtypes without altering the correctness of the program. This can help to ensure that code is flexible and can be easily extended and modified.
+
+4. The Interface Segregation Principle states that clients should not be forced to depend on methods that they do not use. This means that code should be broken down into smaller, more specific interfaces, rather than defining large, monolithic interfaces.
+
+
+5. The Dependency Inversion Principle states that high-level modules should not depend on low-level modules, but rather should depend on abstractions. This can help to decouple different components of an application and make the code more flexible and maintainable.
 
 ## The Single Responsibility Principle
 
