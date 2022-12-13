@@ -1,5 +1,7 @@
 # ARC Architecture
 
+## Overview
+
 The ARC (Automatic Reference Counting) architecture is a system used in the iOS operating system to manage memory allocation and deallocation. It is a key feature of the Objective-C programming language, which is commonly used to develop iOS apps.
 
 ARC works by automatically keeping track of the number of references to objects in memory. When an object is no longer needed, ARC automatically frees up the memory occupied by that object, ensuring that it is not wasted. This helps to prevent memory leaks and other issues that can arise when working with complex software systems.
