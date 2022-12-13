@@ -38,7 +38,7 @@ Overall, ARC can be a useful feature for simplifying memory management in iOS ap
 
 Here is an example of Swift code that demonstrates how to use Automatic Reference Counting (ARC) to manage the lifetime of objects in your app:
 
-```
+```Swift
 class Person {
     let name: String
 
