@@ -60,7 +60,7 @@ Overall, while the delegate pattern can be a useful tool in iOS development, it 
 
 Here is an example of how the delegate pattern could be implemented in iOS using the Swift programming language:
 
-```
+```Swift
 // Define a protocol that specifies the delegate's required behavior
 protocol MyObjectDelegate: AnyObject {
   func didChangeValue(value: Any)
